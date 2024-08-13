@@ -46,7 +46,7 @@ async function hacerPeticion(){
     }
         var f = new Date();
         console.log(f);
-        setInterval(hacerPeticion,6000);
+        setInterval(hacerPeticion,20000);
   </script>
 </body>
 </html>
